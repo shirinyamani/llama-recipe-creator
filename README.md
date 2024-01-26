@@ -1,4 +1,4 @@
-# recipe-creator-llama 
+# recipe-creator-llama 🦙
 ![img](https://images.nightcafe.studio/jobs/6BaR2m3Net6xYb2AaHTR/6BaR2m3Net6xYb2AaHTR--1--npvcq_6x.jpg?tr=w-1600,c-at_max)
 
 ## Description
