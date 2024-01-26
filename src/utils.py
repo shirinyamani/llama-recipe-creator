@@ -1,6 +1,6 @@
-import requests
 import json
 
+import requests
 
 
 def call_llama2(model, prompt, stream=False):
